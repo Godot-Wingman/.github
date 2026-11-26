@@ -20,6 +20,10 @@
   <img src="https://raw.githubusercontent.com/Godot-Wingman/.github/main/profile/editor.png" alt="The Godot editor with the Godot Wingman panel listing the AI's script edits" width="760">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Godot-Wingman/.github/main/profile/gameplay.gif" alt="A demo game made and played through Godot Wingman: the player runs, jumps and collects coins" width="560">
+</p>
+
 ### What it is
 
 A local [MCP](https://modelcontextprotocol.io) server and a Godot addon. Your AI app (Claude Code, Claude Desktop, Codex, Cursor, Gemini CLI, Windsurf, GitHub Copilot in VS Code and other MCP clients) gets 121 tools to work in the open Godot editor, with undo, and to run and play the game.
